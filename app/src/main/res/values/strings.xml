@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EletricCar</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="no_wifi">Ops. Internet não Disponível</string>
+    <string name="response_error">Algo deu errado tente novamente mais tarde</string>
+    <string name="saved_calc">saved_calc</string>
+</resources>
