@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EletricCar</string>
+    <string name="carros">Cars</string>
+    <string name="favoritos">Favorites</string>
+    <string name="no_wifi">Oops. Internet Not Available</string>
+    <string name="response_error">Something went wrong, please try again later.</string>
+    <string name="saved_calc">saved_calc</string>
+    <string name="preco">Price</string>
+    <string name="bateria">Battery</string>
+    <string name="potencia">Power</string>
+    <string name="recarga">Recharge</string>
+    <string name="eletric_car">eletric_car</string>
+    <string name="calcular_autonomia">Calculate Autonomy</string>
+    <string name="preco_km">Price per Miles</string>
+    <string name="calcular">Calculate</string>
+    <string name="km_percorrido">Miles Traveled</string>
+</resources>
